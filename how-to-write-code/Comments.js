@@ -10,3 +10,8 @@
    comments. */
 
    console.log("Comments make your code more readable by others.");
+
+   //single line comment
+
+   /* multi
+   line comment */
